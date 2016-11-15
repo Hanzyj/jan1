@@ -1,0 +1,20 @@
+{
+  "name": "FirstAngular",
+  "authors": [
+    "JanH"
+  ],
+  "description": "firstAngularProject",
+  "main": "index.html",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
